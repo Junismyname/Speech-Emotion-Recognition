@@ -1,0 +1,7 @@
+{
+    "wavlm_4s_s7_fp32": 0.2,
+    "wavlm_large": 0.35,
+    "wavlm": 0.05,
+    "wavlm_4s_bal": 0.1,
+    "vit": 0.3
+}
