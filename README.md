@@ -2,7 +2,7 @@
 
 An end-to-end audio processing and deep learning pipeline designed to classify human emotion from raw speech. This project features multiple architectures—ranging from traditional machine learning baselines to a fine-tuned Vision Transformer and a fine-tuned WavLM speech transformer—and includes a live, browser-based inference application.
 
-**Best result: 85.2% accuracy (85.4% macro F1) across 7 emotions, on 19 speakers no model heard during training.**
+**Best result: 85.2% accuracy (85.4% macro F1) across 7 emotions, on 19 speakers**
 
 ![Live app: a microphone recording classified by the Best Ensemble](images/app_demo.png)
 
